@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+    --purple: #6100C2;
+    --light-purple: #7900C2;
+    --dark: radial-gradient(circle, rgba(55,49,42,1) 49%, rgba(25,24,23,1) 95%, rgba(25,24,23,1) 100%);
+    --glass-blur: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 100%);
+    --gray: #969696;
+    --white: #FFFFFF;
+}
